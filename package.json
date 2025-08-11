@@ -1,0 +1,19 @@
+{
+  "name": "arvore-binaria",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.ts",
+  "scripts": {
+    "start": "parcel public/html/index.html",
+    "build": "parcel build public/html/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "parcel": "^2.15.4",
+    "typescript": "^5.9.2"
+  }
+}
