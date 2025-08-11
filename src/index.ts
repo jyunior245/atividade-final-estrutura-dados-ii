@@ -5,6 +5,7 @@ Equipe:
     - Francisnilto dos Santos Nascimento
     - Vanessa Pereira Cunha 
 
+    npm install
     npm run build
     npm start
 */

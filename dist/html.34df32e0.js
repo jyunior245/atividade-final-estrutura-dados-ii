@@ -674,6 +674,7 @@ Equipe:
     - Francisnilto dos Santos Nascimento
     - Vanessa Pereira Cunha 
 
+    npm install
     npm run build
     npm start
 */ var _arvoreBusca = require("./model/arvoreBusca");
@@ -718,8 +719,10 @@ Equipe:
     - Francisnilto dos Santos Nascimento
     - Vanessa Pereira Cunha 
 
+    npm install
     npm run build
     npm start
+
 */ var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "ArvoreBuscaBinaria", ()=>ArvoreBuscaBinaria);
@@ -902,6 +905,7 @@ Equipe:
     - Francisnilto dos Santos Nascimento
     - Vanessa Pereira Cunha 
 
+    npm install
     npm run build
     npm start
 */ var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
